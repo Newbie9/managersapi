@@ -1,0 +1,65 @@
+{
+  "name": "Avax Hotel Managers #849",
+  "description": "",
+  "image": "https://ahb.mypinata.cloud/ipfs/QmVRH6gMu4B9ndKanf2Wx2CdLCKfKSMJE5CKRStYGTy7ZB/849.png",
+  "edition": 849,
+  "date": 1658068218877,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Ice"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "EyeViolet"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "MustacheSuperman"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head Accessory",
+      "value": "None"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "GlassesBigSunset"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "HoodieLavender"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "None"
+    },
+    {
+      "trait_type": "Tie",
+      "value": "None"
+    },
+    {
+      "trait_type": "VestShirt",
+      "value": "None"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "None"
+    },
+    {
+      "trait_type": "Trench",
+      "value": "None"
+    },
+    {
+      "trait_type": "Tags",
+      "value": "House"
+    }
+  ]
+}

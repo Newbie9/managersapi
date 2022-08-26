@@ -1,0 +1,65 @@
+{
+  "name": "Avax Hotel Managers #1340",
+  "description": "",
+  "image": "https://ahb.mypinata.cloud/ipfs/QmVRH6gMu4B9ndKanf2Wx2CdLCKfKSMJE5CKRStYGTy7ZB/1340.png",
+  "edition": 1340,
+  "date": 1658071570929,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Deep"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blonde"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "EyeBrown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "HeadgearGreen"
+    },
+    {
+      "trait_type": "Head Accessory",
+      "value": "HatBordo"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "GLThin_Blue"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "PoloGreen"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "None"
+    },
+    {
+      "trait_type": "Tie",
+      "value": "None"
+    },
+    {
+      "trait_type": "VestShirt",
+      "value": "None"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "None"
+    },
+    {
+      "trait_type": "Trench",
+      "value": "None"
+    },
+    {
+      "trait_type": "Tags",
+      "value": "Restaurant"
+    }
+  ]
+}

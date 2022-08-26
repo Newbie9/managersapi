@@ -1,0 +1,65 @@
+{
+  "name": "Avax Hotel Managers #732",
+  "description": "",
+  "image": "https://ahb.mypinata.cloud/ipfs/QmVRH6gMu4B9ndKanf2Wx2CdLCKfKSMJE5CKRStYGTy7ZB/732.png",
+  "edition": 732,
+  "date": 1658067732519,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Ice"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brunette"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Amber"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head Accessory",
+      "value": "BabyBlue"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "None"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "ShirtGraphite"
+    },
+    {
+      "trait_type": "Tie",
+      "value": "BowtieYellow"
+    },
+    {
+      "trait_type": "VestShirt",
+      "value": "None"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "None"
+    },
+    {
+      "trait_type": "Trench",
+      "value": "TrenchPink"
+    },
+    {
+      "trait_type": "Tags",
+      "value": "House"
+    }
+  ]
+}

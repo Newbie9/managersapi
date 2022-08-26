@@ -1,0 +1,65 @@
+{
+  "name": "Avax Hotel Managers #76",
+  "description": "",
+  "image": "https://ahb.mypinata.cloud/ipfs/QmVRH6gMu4B9ndKanf2Wx2CdLCKfKSMJE5CKRStYGTy7ZB/76.png",
+  "edition": 76,
+  "date": 1658064835481,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Jam"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Yellowglow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "MustacheBlond"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head Accessory",
+      "value": "Joker"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "None"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "ShirtBlue"
+    },
+    {
+      "trait_type": "Tie",
+      "value": "ClassicSilver"
+    },
+    {
+      "trait_type": "VestShirt",
+      "value": "None"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "None"
+    },
+    {
+      "trait_type": "Trench",
+      "value": "None"
+    },
+    {
+      "trait_type": "Tags",
+      "value": "Guest"
+    }
+  ]
+}

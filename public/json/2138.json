@@ -1,0 +1,65 @@
+{
+  "name": "Avax Hotel Managers #2138",
+  "description": "",
+  "image": "https://ahb.mypinata.cloud/ipfs/QmVRH6gMu4B9ndKanf2Wx2CdLCKfKSMJE5CKRStYGTy7ZB/2138.png",
+  "edition": 2138,
+  "date": 1658076883089,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Jam"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blonde"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "EyeBrown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head Accessory",
+      "value": "HatPink"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "GlassBigTransblue"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "None"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "ShirtPurple"
+    },
+    {
+      "trait_type": "Tie",
+      "value": "ClassicCopper"
+    },
+    {
+      "trait_type": "VestShirt",
+      "value": "VestPurple"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "JacketPurple"
+    },
+    {
+      "trait_type": "Trench",
+      "value": "None"
+    },
+    {
+      "trait_type": "Tags",
+      "value": "Casino"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "name": "Avax Hotel Managers #4605",
+  "description": "",
+  "image": "https://ahb.mypinata.cloud/ipfs/QmVRH6gMu4B9ndKanf2Wx2CdLCKfKSMJE5CKRStYGTy7ZB/4605.png",
+  "edition": 4605,
+  "date": 1658092304967,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Jumanji"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blonde"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "EyeBrown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head Accessory",
+      "value": "Horns"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "GlThin_Black"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "None"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "ShirtGraphite"
+    },
+    {
+      "trait_type": "Tie",
+      "value": "BowtieWhite"
+    },
+    {
+      "trait_type": "VestShirt",
+      "value": "None"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "None"
+    },
+    {
+      "trait_type": "Trench",
+      "value": "TrenchBeige"
+    },
+    {
+      "trait_type": "Tags",
+      "value": "Sales"
+    }
+  ]
+}

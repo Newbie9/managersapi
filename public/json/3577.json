@@ -1,0 +1,65 @@
+{
+  "name": "Avax Hotel Managers #3577",
+  "description": "",
+  "image": "https://ahb.mypinata.cloud/ipfs/QmVRH6gMu4B9ndKanf2Wx2CdLCKfKSMJE5CKRStYGTy7ZB/3577.png",
+  "edition": 3577,
+  "date": 1658085779755,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cigar"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Amber"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "MustacheElder"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head Accessory",
+      "value": "None"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "None"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "ShirtGreen"
+    },
+    {
+      "trait_type": "Tie",
+      "value": "ClassicCopper"
+    },
+    {
+      "trait_type": "VestShirt",
+      "value": "VestGrey"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "JacketGraphite"
+    },
+    {
+      "trait_type": "Trench",
+      "value": "None"
+    },
+    {
+      "trait_type": "Tags",
+      "value": "House"
+    }
+  ]
+}

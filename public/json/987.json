@@ -1,0 +1,65 @@
+{
+  "name": "Avax Hotel Managers #987",
+  "description": "",
+  "image": "https://ahb.mypinata.cloud/ipfs/QmVRH6gMu4B9ndKanf2Wx2CdLCKfKSMJE5CKRStYGTy7ZB/987.png",
+  "edition": 987,
+  "date": 1658069134419,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Jumanji"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blonde"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "BlueGlow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head Accessory",
+      "value": "Superman"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "GlRound_Purple"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "None"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "ShirtGraphite"
+    },
+    {
+      "trait_type": "Tie",
+      "value": "None"
+    },
+    {
+      "trait_type": "VestShirt",
+      "value": "VestRed"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "JacketRed"
+    },
+    {
+      "trait_type": "Trench",
+      "value": "TrenchTurquiose"
+    },
+    {
+      "trait_type": "Tags",
+      "value": "Guest"
+    }
+  ]
+}

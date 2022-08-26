@@ -1,0 +1,65 @@
+{
+  "name": "Avax Hotel Managers #616",
+  "description": "",
+  "image": "https://ahb.mypinata.cloud/ipfs/QmVRH6gMu4B9ndKanf2Wx2CdLCKfKSMJE5CKRStYGTy7ZB/616.png",
+  "edition": 616,
+  "date": 1658067211072,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Jade"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "BlueGlow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "MustacheLavender"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "HeadgearWhite"
+    },
+    {
+      "trait_type": "Head Accessory",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "None"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "ShirtGraphite"
+    },
+    {
+      "trait_type": "Tie",
+      "value": "ClassicRoyal"
+    },
+    {
+      "trait_type": "VestShirt",
+      "value": "None"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "JacketGraphite"
+    },
+    {
+      "trait_type": "Trench",
+      "value": "None"
+    },
+    {
+      "trait_type": "Tags",
+      "value": "Restaurant"
+    }
+  ]
+}
